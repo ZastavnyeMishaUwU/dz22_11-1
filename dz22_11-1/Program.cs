@@ -45,7 +45,7 @@
 
             public override void Sound()
             {
-                Console.WriteLine("Скрипка видає мелодійний звук.");
+                Console.WriteLine("видає мелодійний звук.");
             }
         }
 
@@ -58,7 +58,7 @@
 
             public override void Sound()
             {
-                Console.WriteLine("Тромбон видає низький і потужний звук.");
+                Console.WriteLine("видає низький звук.");
             }
         }
 
@@ -71,7 +71,7 @@
 
             public override void Sound()
             {
-                Console.WriteLine("Укулеле видає легкий і веселий звук.");
+                Console.WriteLine("видає легкий звук.");
             }
         }
 
@@ -84,7 +84,7 @@
 
             public override void Sound()
             {
-                Console.WriteLine("Віолончель видає глибокий і емоційний звук.");
+                Console.WriteLine("видає глибокий звук.");
             }
         }
         static void Main(string[] args)
